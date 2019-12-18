@@ -1,0 +1,21 @@
+
+
+input[type=submit] {
+  background-color: #8842d5;
+  border: none;
+  color: white;
+  padding: 8px 36px;
+  text-decoration: none;
+  border: 2px solid #ccc;
+  margin: 5px 4px;
+  cursor: pointer;  
+
+}
+.container {
+justify-content: space-around;
+margin-left: 400px;
+width: 30%;
+background-color: aqua;
+
+padding: 40px;
+}

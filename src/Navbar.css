@@ -1,0 +1,17 @@
+*{
+  margin : 0;
+  padding: 0;
+}
+
+.navbar {
+list-style: none;
+justify-content: space-around;
+background: #6ab04c;
+color : white;
+text-decoration-line: none;
+text-emphasis-color: white;
+}
+
+.current {
+  color: white;
+}
